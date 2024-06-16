@@ -45,5 +45,5 @@ This tutorial includes the following parts,
 - 'exercise1.ipynb': Exercise for you to implement a Bayesian optimization algorithm by yourself.
 
 ## Use Ax to solve problems. 
-- 'acrobot.ipynb': Demonstrate the application of Ax to solving a PID controller tuning problem for acrobot. 
-- 'cart_pole_play_exercise.ipynb': Exercise for you to apply the Bayesian optimization algorithm to a PD controller tuning problem by yourself.
+- 'demo2.ipynb': Demonstrate the application of Ax to solving a PID controller tuning problem for acrobot. 
+- 'exercise2.ipynb': Exercise for you to apply the Bayesian optimization algorithm to a PD controller tuning problem by yourself.
