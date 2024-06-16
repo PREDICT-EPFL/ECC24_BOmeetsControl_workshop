@@ -1,7 +1,8 @@
 gym==0.24.1
+pygame==2.5.2
 numpy==1.24.4
 matplotlib==3.7.1
 IPython==7.22.0
 moviepy==1.0.3
-GPy==1.9.9
+GPy==1.10.0
 ax-platform==0.3.3
