@@ -46,4 +46,4 @@ This tutorial includes the following parts,
 
 ## Use Ax to solve problems. 
 - 'demo2.ipynb': Demonstrate the application of Ax to solving a PID controller tuning problem for acrobot. 
-- 'exercise2.ipynb': Exercise for you to apply the Bayesian optimization algorithm to a PD controller tuning problem by yourself.
+- 'exercise2.ipynb': Exercise for you to apply the Bayesian optimization algorithm to a linear controller tuning problem by yourself.
