@@ -8,4 +8,4 @@ decorator>=4.0.2,<5.0
 GPy==1.10.0
 ax-platform==0.3.3
 jupyter
-ipykernel>=7.23.1
+ipykernel>=6.29.4
