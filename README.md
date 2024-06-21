@@ -8,16 +8,21 @@ Throughout this tutorial, we will use the programming language python. If you ar
 
 # Requirements
 - gym==0.24.1
+- pygame==2.5.2
 - numpy==1.24.4
 - matplotlib==3.7.1
-- IPython==7.22.0
+- IPython>=7.23.1
 - moviepy==1.0.3
-- GPy==1.9.9
+- decorator>=4.0.2,<5.0
+- GPy==1.10.0
 - ax-platform==0.3.3
+- jupyter
+- ipykernel>=6.29.4
 
 # Installation of requirements
 
 To install the required dependencies, you can use the `requirements.txt` file. Make sure you have [pip](https://pip.pypa.io/en/stable/) installed.
+We also recommend using python 3.8 or 3.9. The installation process were tested using python 3.9.0 and 3.8.5. 
 
 1. Clone the repository:
     ```bash
